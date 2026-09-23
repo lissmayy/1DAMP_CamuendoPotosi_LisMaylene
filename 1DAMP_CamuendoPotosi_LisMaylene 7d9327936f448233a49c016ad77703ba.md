@@ -18,7 +18,7 @@ Un programa informático es un conjunto de instrucciones ordenadas que se le dan
 - *Pruebas:* Como es normal cometer fallos y por eso se produzcan bugs, en esta etapa se usa el programa de mil maneras distintas para ver si se rompe, si falla algo o si va lento, y así poder corregir los errores.
 - *Mantenimiento:* Finalmente, una vez que el programa ya se está usando, esta fase dura para siempre, por tanto, sirve para corregir fallos nuevos que vayan saliendo, actualizar el programa para que funcione en móviles u ordenadores más modernos, o añadirle nuevas mejoras.
 
-![image.png](image.png)
+![jeje-like-cat-computer.jpg](jeje-like-cat-computer.jpg)
 
 [https://tenor.com/es-US/view/jeje-like-cat-computer-cat-cat-meme-ginger-cat-gif-16429572118405735835](https://tenor.com/es-US/view/jeje-like-cat-computer-cat-cat-meme-ginger-cat-gif-16429572118405735835)
 
